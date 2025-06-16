@@ -1,5 +1,11 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
 
+Name: Abisheik Raj J 
+
+reg no:212224230006
+
+Date:25/03/2025
+
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
